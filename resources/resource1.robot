@@ -3,7 +3,7 @@ Library    SeleniumLibrary
 
 *** Variables ***
 ${URL}    https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
-${BROWSER}    Chrome 
+${BROWSER}    chrome
 
 *** Keywords ***
 Se connecter a Orange demo
